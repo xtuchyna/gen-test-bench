@@ -1,0 +1,5 @@
+Sunday Monday Tuesday Wednesday Thursday Friday Saturday
+Sondag Maandag Dinsdag Woensdag Donderdag Vrydag Saterdag
+E_djelë E_hënë E_martë E_mërkurë E_enjte E_premte E_shtunë
+
+Ehud Segno Maksegno Erob Hamus Arbe Kedame
