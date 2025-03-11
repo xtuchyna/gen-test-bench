@@ -1,0 +1,22 @@
+{
+    "exit_code_by_key": {
+        "analysis.kotlin_validation.x_validate_kotlin_code__mutmut_1": null,
+        "analysis.kotlin_validation.x_validate_kotlin_code__mutmut_2": null,
+        "analysis.kotlin_validation.x_validate_kotlin_code__mutmut_3": null,
+        "analysis.kotlin_validation.x_validate_kotlin_code__mutmut_4": null,
+        "analysis.kotlin_validation.x_validate_kotlin_code__mutmut_5": null,
+        "analysis.kotlin_validation.x_validate_kotlin_code__mutmut_6": null,
+        "analysis.kotlin_validation.x_validate_kotlin_code__mutmut_7": null,
+        "analysis.kotlin_validation.x_validate_kotlin_code__mutmut_8": null,
+        "analysis.kotlin_validation.x_validate_kotlin_code__mutmut_9": null,
+        "analysis.kotlin_validation.x_validate_kotlin_code__mutmut_10": null,
+        "analysis.kotlin_validation.x_validate_kotlin_code__mutmut_11": null,
+        "analysis.kotlin_validation.x_validate_kotlin_code__mutmut_12": null,
+        "analysis.kotlin_validation.x_validate_kotlin_code__mutmut_13": null,
+        "analysis.kotlin_validation.x_validate_kotlin_code__mutmut_14": null,
+        "analysis.kotlin_validation.x_validate_kotlin_code__mutmut_15": null
+    },
+    "hash_by_function_name": {
+        "validate_kotlin_code": "3e31e6a10be7e956de26339f04715cf6"
+    }
+}

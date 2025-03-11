@@ -1,0 +1,12 @@
+{
+    "exit_code_by_key": {
+        "config.x_create_or_exists__mutmut_1": null,
+        "config.x_create_or_exists__mutmut_2": null,
+        "config.x_create_or_exists__mutmut_3": null,
+        "config.x_create_or_exists__mutmut_4": null,
+        "config.x_create_or_exists__mutmut_5": null
+    },
+    "hash_by_function_name": {
+        "create_or_exists": "ce7e718c0b8e5c139bc932bafde6b356"
+    }
+}

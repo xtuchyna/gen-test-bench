@@ -1,0 +1,15 @@
+{
+    "exit_code_by_key": {
+        "analysis.python_coverage_computation.x_run_pytest_with_timeout__mutmut_1": null,
+        "analysis.python_coverage_computation.x_run_pytest_with_timeout__mutmut_2": null,
+        "analysis.python_coverage_computation.x_run_pytest_with_timeout__mutmut_3": null,
+        "analysis.python_coverage_computation.x_run_pytest_with_timeout__mutmut_4": null,
+        "analysis.python_coverage_computation.x_run_pytest_with_timeout__mutmut_5": null,
+        "analysis.python_coverage_computation.x_run_pytest_with_timeout__mutmut_6": null,
+        "analysis.python_coverage_computation.x_timeout_handler__mutmut_1": null
+    },
+    "hash_by_function_name": {
+        "run_pytest_with_timeout": "43683e4c4b4d54aa8fdba66a140f2baf",
+        "timeout_handler": "a626fbd2f43faec6ad23e7556f4c0111"
+    }
+}

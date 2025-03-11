@@ -1,0 +1,28 @@
+{
+    "exit_code_by_key": {
+        "analysis.java_validation.x_validate_java_code__mutmut_1": null,
+        "analysis.java_validation.x_validate_java_code__mutmut_2": null,
+        "analysis.java_validation.x_validate_java_code__mutmut_3": null,
+        "analysis.java_validation.x_validate_java_code__mutmut_4": null,
+        "analysis.java_validation.x_validate_java_code__mutmut_5": null,
+        "analysis.java_validation.x_validate_java_code__mutmut_6": null,
+        "analysis.java_validation.x_validate_java_code__mutmut_7": null,
+        "analysis.java_validation.x_validate_java_code__mutmut_8": null,
+        "analysis.java_validation.x_validate_java_code__mutmut_9": null,
+        "analysis.java_validation.x_validate_java_code__mutmut_10": null,
+        "analysis.java_validation.x_validate_java_code__mutmut_11": null,
+        "analysis.java_validation.x_validate_java_code__mutmut_12": null,
+        "analysis.java_validation.x_validate_java_code__mutmut_13": null,
+        "analysis.java_validation.x_validate_java_code__mutmut_14": null,
+        "analysis.java_validation.x_validate_java_code__mutmut_15": null,
+        "analysis.java_validation.x_validate_java_code__mutmut_16": null,
+        "analysis.java_validation.x_validate_java_code__mutmut_17": null,
+        "analysis.java_validation.x_validate_java_code__mutmut_18": null,
+        "analysis.java_validation.x_validate_java_code__mutmut_19": null,
+        "analysis.java_validation.x_validate_java_code__mutmut_20": null,
+        "analysis.java_validation.x_validate_java_code__mutmut_21": null
+    },
+    "hash_by_function_name": {
+        "validate_java_code": "9ea4e841d546d89402830dcc22cc43cd"
+    }
+}

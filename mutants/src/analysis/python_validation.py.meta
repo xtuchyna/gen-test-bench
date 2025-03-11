@@ -1,0 +1,24 @@
+{
+    "exit_code_by_key": {
+        "analysis.python_validation.x_check_syntax_file__mutmut_1": null,
+        "analysis.python_validation.x_check_syntax_file__mutmut_2": null,
+        "analysis.python_validation.x_check_syntax_file__mutmut_3": null,
+        "analysis.python_validation.x_check_syntax_file__mutmut_4": null,
+        "analysis.python_validation.x_check_syntax_file__mutmut_5": null,
+        "analysis.python_validation.x_check_syntax_file__mutmut_6": null,
+        "analysis.python_validation.x_check_syntax_file__mutmut_7": null,
+        "analysis.python_validation.x_check_syntax_file__mutmut_8": null,
+        "analysis.python_validation.x_check_syntax_file__mutmut_9": null,
+        "analysis.python_validation.x_check_syntax_file__mutmut_10": null,
+        "analysis.python_validation.x_check_syntax_file__mutmut_11": null,
+        "analysis.python_validation.x_check_syntax_string__mutmut_1": null,
+        "analysis.python_validation.x_check_syntax_string__mutmut_2": null,
+        "analysis.python_validation.x_check_syntax_string__mutmut_3": null,
+        "analysis.python_validation.x_check_syntax_string__mutmut_4": null,
+        "analysis.python_validation.x_check_syntax_string__mutmut_5": null
+    },
+    "hash_by_function_name": {
+        "check_syntax_file": "e3dd85877e65e63d31b9bcc9615c0973",
+        "check_syntax_string": "59a4b6d061f26716c46c28e402e4373a"
+    }
+}
