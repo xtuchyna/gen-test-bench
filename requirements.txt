@@ -122,3 +122,6 @@ vertexai==1.71.1
 xxhash==3.5.0
 yarl==1.10.0
 httpx==0.27.2
+mutpy
+openpyxl
+pandas

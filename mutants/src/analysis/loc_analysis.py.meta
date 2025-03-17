@@ -1,0 +1,17 @@
+{
+    "exit_code_by_key": {
+        "analysis.loc_analysis.x_get_sloc__mutmut_1": null,
+        "analysis.loc_analysis.x_get_sloc__mutmut_2": null,
+        "analysis.loc_analysis.x_get_sloc__mutmut_3": null,
+        "analysis.loc_analysis.x_get_sloc__mutmut_4": null,
+        "analysis.loc_analysis.x_get_sloc__mutmut_5": null,
+        "analysis.loc_analysis.x_get_sloc__mutmut_6": null,
+        "analysis.loc_analysis.x_get_sloc__mutmut_7": null,
+        "analysis.loc_analysis.x_get_sloc__mutmut_8": null,
+        "analysis.loc_analysis.x_get_sloc__mutmut_9": null,
+        "analysis.loc_analysis.x_get_sloc__mutmut_10": null
+    },
+    "hash_by_function_name": {
+        "get_sloc": "e2abc45dbb166a1a23867a6942fe2ad7"
+    }
+}
